@@ -2,6 +2,13 @@
 
 ## Project organization
 - RO = read only
+
+The results from the SPHY model are usually in figure or in the form of time series. You can specify yourseld what kind of time series you want the model to generate. I have in this run used the model to generate time series for 32 years from 1991 to 2022 using a daily time step.
+
+
+I am currently using Python and packages like matplotlib, pandas, os and datetime.
+
+The details of these are present in loc file.
 ```
 .
 ├── .gitignore
