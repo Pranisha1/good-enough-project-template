@@ -1,8 +1,6 @@
 # Reading all the diacharge data from the SPHY model run
 
 ## Project organization
-- PG = project-generated
-- HW = human-writable
 - RO = read only
 ```
 .
