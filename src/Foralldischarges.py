@@ -25,7 +25,7 @@ help(funct)
 start_year = "1991"
 start_date = "01/01/" + start_year
 date_1 = datetime.datetime.strptime(start_date, "%m/%d/%Y")
-data_dir = "C:/Users/Pokhr002/OneDrive - Universiteit Utrecht/02Data/Selected results"
+data_dir = "C:/Users/Pokhr002/OneDrive - Universiteit Utrecht/06Programming/04Reproducable_Code/good-enough-project-template/src"
 
 # Get list of all .tss files in the directory
 tss_files = [f for f in os.listdir(data_dir) if f.endswith(".tss")]
