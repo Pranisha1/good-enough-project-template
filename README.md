@@ -1,4 +1,4 @@
-# [Reading all the diacharge data from the SPHY model run]
+# Reading all the diacharge data from the SPHY model run
 
 ## Project organization
 - PG = project-generated
